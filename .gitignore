@@ -1,0 +1,6 @@
+.settings/*
+
+*.class
+*.war
+*.jar
+*.ear
