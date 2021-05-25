@@ -1,6 +1,18 @@
-.settings/*
+# Intellij
+.idea/*
+*.iml
+*.iws
 
-*.class
-*.war
-*.jar
-*.ear
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+# Build Artifacts
+.gradle/
+build/
+target/
+
+# Log directory
+logs/
